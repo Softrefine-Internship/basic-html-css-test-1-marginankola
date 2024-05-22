@@ -13,9 +13,12 @@
   background-color: rgb(169, 169, 169);
 }
 
- /* all centerbars */
+/* all centerbars */
 
-.centbar,.centbar2,.centbar3,.centbar4 {
+.centbar,
+.centbar2,
+.centbar3,
+.centbar4 {
   margin: auto;
   height: 60px;
   width: 500px;
@@ -43,7 +46,6 @@
 /* second section */
 .centbar2 {
   width: 800px;
-  
 }
 .mbox {
   height: 650px;
@@ -67,18 +69,17 @@
 
 /* third section */
 .centbar3 {
-  
-  width: 1000px;
+  width: 900px;
   margin-top: 30px;
 }
 .third {
-  height: 720px;
+  height: 710px;
   width: auto;
   margin-top: 50px;
   background-color: rgb(169, 169, 169);
 }
 .tbox {
-  margin-left: 160px;
+  margin-left: 185px;
   margin-bottom: 50px;
 }
 .tbox1,
@@ -92,8 +93,8 @@
 .tbox9 {
   background-color: rgb(169, 169, 169);
   display: inline-block;
-  border: 40px solid white;
-  margin-top: 70px;
+  border: 30px solid white;
+  margin-top: 80px;
   margin-bottom: 50px;
 }
 
@@ -111,71 +112,62 @@
   height: 200px;
   width: 300px;
 }
-.l2
-{
-    border: none 40px solid white;
-    border-bottom: none;
+.l2 {
+  border: none 40px solid white;
+  border-bottom: none;
 }
 
 /* forth section */
-.centbar4
-{
-    width: 400px;
+.centbar4 {
+  width: 350px;
 }
-.mele1,.mele2,.mele3,.mele4
-{
-    height: 60px;
-    width: 650px;
-    margin: auto;
-    background-color: rgb(169, 169, 169);
-    margin-bottom: 10px;
-    
+.mele1,
+.mele2,
+.mele3,
+.mele4 {
+  height: 60px;
+  width: 650px;
+  margin: auto;
+  background-color: rgb(169, 169, 169);
+  margin-bottom: 10px;
 }
-.mele4
-{
-    height: 300px;
+.mele4 {
+  height: 300px;
 }
-.sele
-{
-    margin-top: 30px;
+.sele {
+  margin-top: 30px;
 }
-.sele1
-{
-    display: inline-block;
-    height: 60px;
-    width: 315px;
-    margin-left: 434px;
-    background-color: rgb(169, 169, 169);
-    margin-bottom: 10px;
-    
+.sele1 {
+  display: inline-block;
+  height: 60px;
+  width: 315px;
+  margin-left: 434px;
+  background-color: rgb(169, 169, 169);
+  margin-bottom: 10px;
 }
-.sele2
-{
-    display: inline-block;
-    height: 60px;
-    width: 315px;
-    margin-left: 16px;
-    background-color: rgb(169, 169, 169);
-    margin-bottom: 10px;   
+.sele2 {
+  display: inline-block;
+  height: 60px;
+  width: 315px;
+  margin-left: 16px;
+  background-color: rgb(169, 169, 169);
+  margin-bottom: 10px;
 }
 
 /* last section */
-.last
-{
-    margin-top: 50px;
+.last {
+  margin-top: 50px;
 }
-.ls1,.ls2
-{
-    height: 200px;
-    width: 715px;
-    border: 30px solid rgb(169, 169, 169);
+.ls1,
+.ls2 {
+  height: 200px;
+  width: 715px;
+  border: 30px solid rgb(169, 169, 169);
 }
-.ls1
-{
-    float: left;
+.ls1 {
+  float: left;
 }
-.ls2
-{
-    float: right;
-    border-left: none;
+.ls2 {
+  float: right;
+  border-left: none;
 }
